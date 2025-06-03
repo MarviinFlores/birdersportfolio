@@ -2,47 +2,54 @@
     "skills": [
       {
         "id": "1",
-        "src": "./img/product-chain-1.png",
-        "title": "Front-End",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+        "src": "./img/forest-m.png",
+        "title": "Mountain-Rainforest",
+	"description":"Especially in areas like Boquete and the Chiriqui Highlands, offer excellent birding opportunities. These regions boast diverse ecosystems and wide variety of birds species, including the resplendent Quetzal, which is particulary well-known in the Chiriqui Highlands. "
       },
       {
         "id": "2",
-        "src": "./img/tag-1.png",
-        "title": "Back-End",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+        "src": "./img/jungle.png",
+        "title": "Humid Forests",
+	"description" :"Humid forest offer excellent birding opportunities, with various regions and seasons kwon for specific species. Soberania National Park, Pipe-Line Trail, is well-kown hotspot with high bird diversity.Darien Rainforest this large national park in western Panama near the Colombian border  offers a diverse range of birdlife"
       },
       {
         "id": "3",
-        "src": "./img/feather-pen-2.png",
-        "title": "UI & UX Design",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+        "src": "./img/mountain.png",
+        "title": "Mountains & Highlands",
+	"description":"Highland forest, like those in El Valle, harbor unique species like the Yellow-eared Toucanet, Black Guan,Black-crowned Antpitta, and various tanagers. Hummingbird species like Snowcap and garden Emerald are also common."
       },
       {
         "id": "4",
-        "src": "./img/feather-pen-1.png",
-        "title": "Webflow Development",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+        "src": "./img/summer.png",
+  	"title":"Mangroves & Coasts",
+	"description": "Panama coastline offers a variety of shorebirds ,raptors and songbirds, including migratory species from the northern hemisphere. Mangrove forest are home to species like the Cocoi Heron and Pied Water-Tyran."
+      },
+	{
+        "id": 5,
+        "src": "./img/urban.png",
+	"title":"Urban Areas",
+	"description" :"Urban areas in Panama ,such as Panama Viejo in Panama City, can surprisingly offer good birding, with species like Black Vultures,Palm Tanagers, and Yellow Warblers."
       }
-    ],
+
+        ],
   "portfolio": [
     {
       "id": "1",
-      "src": "./img/placeholder-image.png",
+      "src":"./img/bird1.png",
       "title": "Ahuse",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
       "link": "View In Github"
     },
     {
       "id": "2",
-      "src": "./img/placeholder-image-1.png",
+      "src": "./img/bird2.png",
       "title": "App Dashboard",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
       "link": "View In Github"
     },
     {
       "id": "3",
-      "src": "./img/placeholder-image-2.png",
+      "src": "./img/bird3.png",
       "title": "Easy Rentn",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
       "link": "View In Github"
@@ -52,26 +59,26 @@
     {
       "id": "1",
       "count": "5",
-      "src": "./img/avatar-image.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Dianne Russel",
-      "author_designation": "Starbucks"
+      "src": "./img/trip1.png",
+      "description":"This was the birding adventure of a lifetime.Birding Panama did not disappoint.Jose did a tremendous job making all the arrangements and my guide Kilo Campos is arguably the best guide in Panama. And According to the website Ebird Kilo has seen 921 species in Panama out of a possible 1003 species. March 2022 ",
+      "author_name": "eco-tourist-macungie",
+      "author_designation": "Naples-Florida"
     },
     {
       "id": "2",
       "count": "5",
-      "src": "./img/avatar-image-1.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Kristin Watson",
-      "author_designation": "Louis Vuitton"
+      "src": "./img/trip2.png",
+      "description":"Absolutely fantastic and intense. Kilo campos is an excellent guide, with a mysterious ability to spot hidden bird and get them quickly in his scope. And the arrangements for hotels and meals were very satisfying.March 2025 ",
+      "author_name":"Barry M",
+      "author_designation":"TripAdvisor"
     },
     {
       "id": "3",
       "count": "5",
-      "src": "./img/avatar-image-2.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Kathryn Murphy",
-      "author_designation": "McDonald's"
+      "src": "./img/trip3.png",
+      "description": "Just back from 2 great weeks of birding in Panama. Our exemplary guide Eclides kilo Campo is a wizard at locating birds by sight aand sound. Unfailingly patient and enthusiastic he helped each member of our 10-person group get on the bird.January 2024 ",
+      "author_name": "Roland I",
+      "author_designation": "TripAdvisor"
     }
   ]
 }
