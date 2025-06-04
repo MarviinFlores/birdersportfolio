@@ -451,7 +451,7 @@ h2 {
 }
 .container {
   display: grid;
-  grid-template-columns: repeat(2, auto);
+/*  grid-template-columns: repeat(2, auto);affects form conatct*/
   column-gap: 32px;
   row-gap: 32px;
 }
