@@ -6,6 +6,7 @@ import HeroSection from "../HeroSection";
 import MyPortfolio from "../MyPortfolio";
 import MySkills from "../MySkills";
 import Testimonial from "../Testimonial";
+import Whatsapp from "../Whatsapp.jsx"
 
 export default function Home() {
   return (
@@ -17,6 +18,7 @@ export default function Home() {
       <Testimonial />
       <Contact />	  
       <Footer />
+	<Whatsapp />  
 
         </>
   );

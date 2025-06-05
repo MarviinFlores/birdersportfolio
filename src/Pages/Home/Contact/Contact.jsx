@@ -53,7 +53,7 @@ import emailjs from '@emailjs/browser';
 			     <textarea rows ="2" className = "form-control" placeholder ='Message' name="message" id = "message"/>
 		      </div>	
 			<div className = 'form-element'>
-			<button  type="submit"   className ='bg-brown text-white submit-btn fw-3 fs-22'>Send</button>
+			<button  type="submit"   className =' text-white submit-btn fw-3 fs-22'>Send</button>
 	                 </div>
 		    </form>
 		</div>

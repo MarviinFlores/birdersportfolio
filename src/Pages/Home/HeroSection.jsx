@@ -10,8 +10,8 @@ export default function HeroSection() {
             Birding Guide
           </h1>
           <p className="hero--section-description">
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-            <br /> Dolorum, quas. Amet soluta assumenda cum?
+           The Top bird list holder for Panama on eBird website 2025   .
+            <br /> Euclides Kilo is the most  highly regarded birding guide in Panama 
           </p>
         </div>
         <button className="btn btn-primary">Get In Touch</button>
