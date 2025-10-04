@@ -690,6 +690,7 @@ input[type="checkbox"] {
   transition: all ease-in-out 0.2s;
 }
 
+
 @media screen and (max-width: 1200px) {
   .nav__hamburger {
     display: flex;
@@ -739,6 +740,6 @@ input[type="checkbox"] {
   .nav__hamburger.active :nth-child(3) {
     transform: rotate(-45deg) translate(0.45rem, -0.1875rem);
   }
-}
 
+}
 /* Responsive Screens Ends*/

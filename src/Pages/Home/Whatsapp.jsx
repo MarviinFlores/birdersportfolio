@@ -6,7 +6,7 @@ const  Whatsapp= () => {
      <div className='p-3 fixed bottom -0 right-0'>
 
         < FloatingWhatsApp 
-            phoneNumber= '+50765788940'
+            phoneNumber= '+50767075561'
             accountName='Kilo Campos'
             allowEsc
             allowClickAway
